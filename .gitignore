@@ -1,0 +1,5 @@
+/emcc-cdb
+*.exe
+*.exe~
+dist/
+
